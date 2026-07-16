@@ -1,0 +1,22 @@
+{
+    "schema_version":  1,
+    "name":  "Appeal_Recast_BehaviorTree_AI",
+    "version":  "1.0.0-beta.1",
+    "module":  "AI",
+    "platforms":  [
+                      "windows-x64",
+                      "linux-x64"
+                  ],
+    "artifacts":  {
+                      "windows":  "Appeal_Recast_BehaviorTree_AI.dll",
+                      "linux":  "Appeal_Recast_BehaviorTree_AI.so"
+                  },
+    "runtime_dependencies":  {
+                                 "windows":  [
+
+                                             ],
+                                 "linux_debian":  [
+
+                                                  ]
+                             }
+}
